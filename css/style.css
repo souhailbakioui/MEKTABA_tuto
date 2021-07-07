@@ -1,0 +1,22 @@
+.fa{
+	font-size: 500;
+}
+.f_header{
+	display: flex;
+	
+	background-color: darkgray;
+	padding: 2%;
+}
+.connect_header{
+	display: flex;
+	list-style: none;
+
+}
+.connect_header li{
+    padding-left: 19px;
+
+}
+.localisattion{
+	    padding-right: 59%;
+	    padding-left: 2%;
+}
